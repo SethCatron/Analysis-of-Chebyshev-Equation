@@ -1,2 +1,2 @@
 # Analysis-of-Chebyshev-Equation
-Analysis of Chebyshev Equation using Power Series and Taylor Polynomials
+This project deals with the Chebyshev Equation, specifically finding the recurrence relation of its coefficients and determining when the power series solution becomes a polynomial. The rest of the project focuses on solving an initial value problem and approximating the solution with its Taylor polynomial. The third-degree and fourth-degree Taylor polynomials are plotted using Python.
